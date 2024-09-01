@@ -1,0 +1,87 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2
+{
+    text-align: center;
+}
+
+h2 a
+{
+    color: green;
+    text-align: center;
+    text-decoration: underline;
+}
+table{
+    height: 250px;
+    width: 600px;
+    text-align: center;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+table, tr ,td{
+    border: 2px solid white;
+    border-collapse: collapse;
+    
+}
+#c1{
+    background-color: rgba(49, 141, 118, 0.856);
+}
+#c2{
+    background-color: rgba(235, 39, 39, 0.863);
+}
+#c3{
+    background-color: rgb(128, 245, 245);
+}
+#c4{
+    background-color:  rgba(49, 141, 118, 0.856);
+}
+#c5{
+    background-color:rgba(235, 39, 39, 0.863) ;    
+}
+#c6{
+    background-color:  rgb(128, 245, 245);
+}
+#c7{
+    background-color: blue;   
+}
+#c8{
+    background-color: rgb(4, 68, 4);   
+}
+#c9{
+    background-color: rgb(95, 9, 9);
+}
+#c10{
+    background-color: blue;   
+}
+#c11{
+    background-color: rgb(4, 68, 4);   
+}
+#c12{
+    background-color: rgb(95, 9, 9);
+}
+
+#c13{
+    background-color: rgb(250, 156, 14);
+    
+}
+#c14{
+    background-color: blue;
+}
+#c15{
+    background-color: rgb(250, 122, 186);
+}
+#c16{
+    background-color: rgb(250, 156, 14);
+    
+}
+#c17{
+    background-color: blue;
+}
+#c18{
+    background-color: rgb(250, 122, 186);
+}
